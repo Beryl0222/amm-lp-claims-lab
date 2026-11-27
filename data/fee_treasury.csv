@@ -9,3 +9,9 @@ K7,23,AB,A,paid,Dana,D1,50
 K8,25,AB,A,paid,Bo,D2,22
 K9,28,AB,A,lp_deposit,,,137
 K10,29,AB,A,claim,Eli,D3,33
+K11,19,BC,B,lp_deposit,,,30
+K12,20,BC,B,claim,Ana,D4,48
+K13,21,BC,B,submitted,Ana,D4,30
+K14,24,BC,B,failed,Ana,D4,30
+K15,26,BC,B,submitted,Ana,D4,30
+K16,29,BC,B,paid,Ana,D4,30

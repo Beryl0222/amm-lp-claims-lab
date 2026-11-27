@@ -38,6 +38,9 @@ class InputBundleTest(unittest.TestCase):
         self.assertLess(int(legs['L1']['order']), int(ops['O1']['order']))
         self.assertLess(int(ops['O1']['known']), int(routes['R1']['seen']))
         self.assertLess(int(cash['K8']['step']), int(routes['R4']['seen']))
+        self.assertEqual(cash['K13']['payment'], cash['K15']['payment'])
+        self.assertLess(int(cash['K13']['step']), int(cash['K14']['step']))
+        self.assertLess(int(cash['K14']['step']), int(cash['K15']['step']))
 
 
 if __name__ == "__main__":
