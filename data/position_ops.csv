@@ -1,0 +1,4 @@
+op,order,known,position,kind,holder,units
+O1,105,7,P1,transfer,Eli,
+O2,111,9,P2,remove,,20
+O3,114,15,P3,transfer,Cy,

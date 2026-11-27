@@ -1,0 +1,11 @@
+fact,step,pool,asset,kind,owner,payment,amount
+K1,18,AB,A,lp_deposit,,,72
+K2,18,AB,A,principal,,,3000
+K3,19,AB,A,claim,Dana,D1,50
+K4,20,AB,A,claim,Bo,D2,90
+K5,21,AB,A,submitted,Dana,D1,50
+K6,22,AB,A,submitted,Bo,D2,22
+K7,23,AB,A,paid,Dana,D1,50
+K8,25,AB,A,paid,Bo,D2,22
+K9,28,AB,A,lp_deposit,,,137
+K10,29,AB,A,claim,Eli,D3,33

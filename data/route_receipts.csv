@@ -1,0 +1,6 @@
+receipt,route,seen,status,legs,fees,revises
+R0,S1,5,fragment,L1,,
+R1,S1,13,final,L1|L2|L3,AB:A:181|BC:B:60,
+R2,S2,16,failed,L4|L5,,
+R3,S3,17,final,L6|L7,AB:A:145,
+R4,S1,27,revision,L1|L8|L3,AB:A:143|BC:B:60,R1
